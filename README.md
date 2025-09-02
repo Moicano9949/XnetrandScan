@@ -18,3 +18,4 @@ Este software **se proporciona tal cual**, sin garantías de ningún tipo. El au
 ```bash
 git clone https://github.com/Moicano9949/XnetrandScan.git
 cd XnetrandScan
+chmod +x *
